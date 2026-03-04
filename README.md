@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 
 
-🎓MS in Information Technology (2026)  
+MS in Information Technology (2026)  
  Aspiring Software Engineer  
  Interested in AI, Cloud, and Full Stack Development  
 
